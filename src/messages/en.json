@@ -1,0 +1,275 @@
+{
+	"metadata": { "dir": "ltr", "title": "Seraj for digital marketing" },
+	"Navbar": {
+		"home": "Home",
+		"about": "About Us",
+		"services": "Our Services",
+		"projects": "Our Works",
+		"serviceRequest": "Service Request",
+		"contactUs": "Contact Us"
+	},
+	"HomePage": {
+		"Hero": {
+			"heading": "We Create, Influence & Achieve Results",
+			"description": "We combine creativity, quality and impact to ensure the best results for our clients. We take you on a journey illuminated by the light of our shining lamp, providing the best innovative marketing strategies that leave their mark and achieve the desired results.",
+			"contactUs": "Contact Us",
+			"aboutUs": "About Us"
+		},
+		"About": {
+			"label": "Get to know us better",
+			"heading": "Passion and creativity in marketing",
+			"description": "We have a creative team of professionals specialized in providing innovative and effective marketing solutions. We always strive to transform creative ideas into successful marketing strategies that leave a strong impact and achieve tangible results. At Serajj, we believe that collaboration and passion are the fuse of the flame of success, and we work hard to achieve our clients’ vision through a deep understanding of their needs and aspirations.",
+			"btnText": "Read More"
+		},
+		"Services": {
+			"label": "Our Services",
+			"heading": "Passion and creativity in marketing",
+			"description": "We pride ourselves on offering a comprehensive range of marketing services carefully designed to meet our clients’ needs and achieve their goals.",
+			"btnText": "Service Request",
+			"slide-1": {
+				"heading": "Digital Marketing",
+				"description": "Our digital marketing department provides innovative and integrated solutions, harnessing the potential of modern technology to build advanced strategies and ensure their effectiveness."
+			},
+			"slide-2": {
+				"heading": "Social Media Accounts Management",
+				"description": "We create a systematic strategy for your presence on social media platforms and manage it for you with great professionalism to ensure that you are effectively present with your audience."
+			},
+			"slide-3": {
+				"heading": "Visual Production",
+				"description": "Through a broad visual vision, we present an idea and an artistic story in the form of professional photos and distinctive video clips with the best advanced technologies, with high standards and under the supervision of professionals, to ensure the realization of your vision."
+			},
+			"slide-4": {
+				"heading": "Influencer Marketing",
+				"description": "We have a huge database that includes all categories of social media influencers, and by providing our service, we guarantee that your brand will reach your target audience."
+			},
+			"slide-5": {
+				"heading": "Exhibitions and Conferences Management",
+				"description": "We manage governmental and private exhibitions and conferences, from planning to implementation, with a high degree of professionalism to ensure the success of your event."
+			},
+			"slide-6": {
+				"heading": "Creative Content",
+				"description": "We are your best choice to promote your brand or products and services, we provide the best strategies as SEO service that we have the golden guarantee for our clients"
+			}
+		},
+		"Projects": {
+			"label": "Our Works",
+			"heading": "A Modern Vision That Embodies Excellence",
+			"description": "Explore our gallery of past projects that reflect our uniqueness and creativity in the world of marketing and advertising, where we combine creativity and professionalism to effectively communicate your messages.",
+			"slide-1": {
+				"heading": "السعودي للروبوت والرياضات اللاسلكية",
+				"description": "الاتحاد الرياضي المعتمد من اللجنة الأولمبية، والراعي لجميع الرياضات اللاسلكية.<br>عملنا على تعزيز الظهور الرقمي من خلال إدارة كاملة لوسائل التواصل الاجتماعي للاتحاد والتفاعل مع جمهورهم والمهتمين بمجال الروبوت والرياضات اللاسلكية كما سلطنا الضوء على أنشطة الإتحاد وانجازاته ومساهماته عبر محتوى متنوع ومتجدد."
+			},
+			"slide-2": {
+				"heading": "بنك الرياض",
+				"description": "أحد أكبر المؤسسات المالية في المملكة العربية السعودية والشرق الأوسط.<br>تم العمل على إدارة منصات التواصل الاجتماعي وتقديم محتوى مبتكر يتناسب مع توجّه البنك والتفاعل مع العملاء."
+			},
+			"slide-3": {
+				"heading": "جمعية كهاتين",
+				"description": "الجمعية الخيرية لرعاية الأيتام في مكة المكرمة.<br>قدمنا استراتيجية ظهور رقمي مميزة وإدارة لمنصات التواصل الاجتماعي وحملات ممولة بجانب الإنتاج المرئي لمقاطع متنوعة تخدم الجمعية."
+			},
+			"slide-4": {
+				"heading": "هاف مليون",
+				"description": "هاف مليون أشهر علامة سعودية متخصصة في مجال القهوة.<br>قدمنا استراتيجية ظهور رقمي بأفكار مبتكرة وإبداعية تواكب تجدد منصات التواصل الاجتماعي وتواكب تنوعها في المحتوى."
+			},
+			"slide-5": {
+				"heading": "Go للاتصالات",
+				"description": "go للاتصالات شركة رائدة في مجال الإتصالات على مستوى الشرق الأوسط والحاصلة على أهم المحافظ في مجال تكنولوجيا المعلومات والاتصالات.<br>قدمنا استراتيجية مميزة ومبتكرة تعزز من الظهور الرقمي لمنصات التواصل الاجتماعي ، والإنتاج المرئي من مقاطع فيديو وصور وموشن جرافيك."
+			},
+			"slide-6": {
+				"heading": "شركة أساس مكين",
+				"description": "شركة للتطوير والاستثمار العقاري بخبرة دامت 14 سنة في مجال التطوير العقاري.<br>قدمنا استراتيجية ظهور رقمي وإدارة لمنصات التواصل الاجتماعي وإدارة للحملات الإعلانية الممولة."
+			}
+		},
+		"Leaders": {
+			"label": "Leaders",
+			"leader-1": {
+				"name": "Prince Salman bin Saud Al Saud",
+				"role": "Chairman of Board of Directors",
+				"description": "We at Serajj Digital Marketing Company started from the Saudi market’s need for companies specialised in communication and marketing solutions, and we were able to build a company that provides integrated solutions that meet the needs of the private and public sectors. We continue to develop the field using artificial intelligence systems that contribute to monitoring, analysis and targeting in social media to align with 2030 vision"
+			},
+			"leader-2": {
+				"name": "Bassam Al Saif",
+				"role": "Chief Executive Officer",
+				"description": "At Serajj Digital Marketing, we are proud to have gained the trust of more than 150 clients in the public and private sectors. One of Siraj’s most important features is an ambitious and passionate team that creates creative ideas that contribute to spreading and increasing sales for our clients. We believe that marketing is not just an advertisement. Still, it is an integrated process, and therefore we provide a comprehensive set of 360 marketing services and use modern technologies that contribute to the success of the entire marketing journey."
+			}
+		},
+		"OurClients": {
+			"label": "Our Clients",
+			"heading": "Trusted By Major Companies"
+		},
+		"WhatWeAdded": {
+			"heading": "What did Serajj add to his wonderful clients?",
+			"description-1": "At Serajj, we were able to improve the appearance of our distinguished clients, and we decorated their identity with our creative touches to become attractive and dazzling, and we presented them with our original and unique ideas.",
+			"description-2": "We were able to be the link between our clients and their target audiences, and to build a strong and long-lasting relationship between them."
+		},
+		"News": {
+			"label": "Serajj News",
+			"heading": "Latest News",
+			"description": "Follow with us the latest news and updates about Serajj Company, as we provide you with an inside look at our current and future projects.",
+			"slide-1": {
+				"heading": "شريك النجاح وزارة الدفاع",
+				"description": "وزارة الدفاع إحدى الوزارات السيادية في المملكة العربية السعودية المكلّفة بالتنظيم الإداري والعملياتي واللوجستي، بفضل ثقتهم بنا وبجودة مخرجاتنا استطعنا"
+			},
+			"slide-2": {
+				"heading": "شريك النجاح Go للاتصالات",
+				"description": "شريك نجاحنا go للاتصالات أحد الشركات الرائدة في الشرق الأوسط في قطاع الاتصالات والحاصلة على أهم المحافظ في مجال تكنولوجيا"
+			},
+			"slide-3": {
+				"heading": "اكثر من 2 مليار مشاهدة لحملاتنا الإعلانية!",
+				"description": "تقام الحملات التسويقية بهدف معين أو بمجموعة من الأهداف، في العادة تتضمن هذه الأهداف تأسيس العلامة التجارية أو تسليط الضوء"
+			},
+			"slide-4": {
+				"heading": "شريك النجاح هاف مليون",
+				"description": "هاف مليون أشهر علامة سعودية في مجال القهوة التي استطاعت أن تضع بصمتها وتنجح على رغم كثرة المنافسين في المجال،"
+			},
+			"slide-5": {
+				"heading": "حادثة سرقة المكتب تحصد 2.6 مليون مشاهدة في منصة تيك توك",
+				"description": "تعرض مكتب سراج للتسويق الرقمي للسطو في نهار يوم الجمعة من قبل رجل يخفي هويته استهدف مكتب الرئيس التنفيذي وبدأ"
+			}
+		},
+		"ContactUs": {
+			"label": "Contact Us",
+			"heading": "Serajj team is looking forward to helping you.",
+			"description": "Whether you have any questions, or would like to know more about our services, you can contact us at any time.",
+			"form": {
+				"heading": "We are pleased to communicate with the Serajj team.",
+				"fullName": "Full Name",
+				"email": "Email",
+				"phoneNumber": "Mobile",
+				"message": "Message",
+				"submit": "Send",
+				"required": "Required Field",
+				"3atLeast": "Must contain at least 3 characters",
+				"invalidEmail": "Invalid Email",
+				"messageError": "Message must be at least 10 characters"
+			}
+		}
+	},
+	"Projects": {
+		"card-1": {
+			"heading": "الهيئة السعودية للمقاولين",
+			"description": "هيئة تعنى بتطوير قطاع المقاولات ورفع كفاءته. تمت إقامة فعالية اليوم العالمي للايسكريم بهوية الهيئة بفريق من المصورين المحترفين وبتغطية احترافية للفعالية."
+		},
+		"card-2": {
+			"heading": "وزارة الزراعة",
+			"description": "بناء هوية بصرية متكاملة لتظهر كواجهة مميزة للوزارة."
+		},
+		"card-3": {
+			"heading": "بنك الرياض",
+			"description": "أحد أكبر المؤسسات المالية في المملكة العربية السعودية والشرق الأوسط. تم العمل على إدارة منصات التواصل الاجتماعي وتقديم محتوى مبتكر يتناسب مع توجّه البنك والتفاعل مع العملاء."
+		},
+		"card-4": {
+			"heading": "الاتحاد السعودي للروبوت والرياضات اللاسلكية",
+			"description": "الاتحاد الرياضي المعتمد من اللجنة الأولمبية، والراعي لجميع الرياضات اللاسلكية. عملنا على تعزيز الظهور الرقمي من خلال إدارة كاملة لوسائل التواصل الاجتماعي للاتحاد والتفاعل مع جمهورهم والمهتمين بمجال الروبوت والرياضات اللاسلكية كما سلطنا الضوء على أنشطة الإتحاد وانجازاته ومساهماته عبر محتوى متنوع ومتجدد."
+		},
+		"card-5": {
+			"heading": "هاف مليون",
+			"description": "هاف مليون أشهر علامة سعودية متخصصة في مجال القهوة. قدمنا استراتيجية ظهور رقمي بأفكار مبتكرة وإبداعية تواكب تجدد منصات التواصل الاجتماعي وتواكب تنوعها في المحتوى."
+		},
+		"card-6": {
+			"heading": "Go للاتصالات",
+			"description": "go للاتصالات شركة رائدة في مجال الإتصالات على مستوى الشرق الأوسط والحاصلة على أهم المحافظ في مجال تكنولوجيا المعلومات والاتصالات. قدمنا استراتيجية مميزة ومبتكرة تعزز من الظهور الرقمي لمنصات التواصل الاجتماعي ، والإنتاج المرئي من مقاطع فيديو وصور وموشن جرافيك."
+		},
+		"card-7": {
+			"heading": "جمعية كهاتين",
+			"description": "الجمعية الخيرية لرعاية الأيتام في مكة المكرمة. قدمنا استراتيجية ظهور رقمي مميزة وإدارة لمنصات التواصل الاجتماعي وحملات ممولة بجانب الإنتاج المرئي لمقاطع متنوعة تخدم الجمعية."
+		},
+		"card-8": {
+			"heading": "شركة أساس مكين",
+			"description": "شركة للتطوير والاستثمار العقاري بخبرة دامت 14 سنة في مجال التطوير العقاري. قدمنا استراتيجية ظهور رقمي وإدارة لمنصات التواصل الاجتماعي وإدارة للحملات الإعلانية الممولة."
+		}
+	},
+	"OurServices": {
+		"card-1": {
+			"heading": "Social Media Accounts Management",
+			"description": "We create a systematic strategy for your presence on social media platforms and manage it for you with great professionalism to ensure that you are effectively present with your audience."
+		},
+		"card-2": {
+			"heading": "Digital Marketing",
+			"description": "We are your best choice to promote your brand or products and services, we offer the best strategies as SEO service with which we have the golden guarantee for our customers."
+		},
+		"card-3": {
+			"heading": "Visual Production",
+			"description": "Through a wide visual vision we present an idea and an artistic story In the form of professional photos and videos featuring the best advanced technologies with high standards and under the supervision of professionals to ensure the achievement of your vision."
+		},
+		"card-4": {
+			"heading": "Influencer Marketing",
+			"description": "We have a huge database that includes all categories of influencers in social networking sites, and by providing our service we ensure that your brand reaches your target audience."
+		},
+		"card-5": {
+			"heading": "Exhibitions and Conferences Management",
+			"description": "We manage government and private exhibitions and conferences from planning to execution with a high degree of professionalism to ensure the success of your events."
+		},
+		"card-6": {
+			"heading": "Creative Content",
+			"description": "We believe in the importance of creativity in content, we offer you a complete and renewable set of creative ideas presented in the form of original creative content."
+		}
+	},
+	"AboutUs": {
+		"Main": {
+			"label": "Serajj Marketing Company",
+			"heading": "Passion and creativity in marketing",
+			"description": "An innovative team of professionals who specialise in providing innovative and effective marketing solutions. We always strive to transform creative ideas into successful marketing strategies that have a strong impact and deliver tangible results.",
+			"btnText": "Our Services"
+		},
+		"Cards": {
+			"card-1": {
+				"heading": "Our Values",
+				"description": "Innovation, transparency, and commitment to the highest standards of quality. We believe that success comes from hard work and dedication to providing the best. Our team works in a spirit of collaboration and creativity to provide marketing solutions that exceed our clients’ expectations."
+			},
+			"card-2": {
+				"heading": "Our Goal",
+				"description": "Our goal is to provide integrated marketing services that meet our clients’ needs accurately and professionally. We are committed to achieving maximum customer satisfaction through innovative marketing solutions and accurate analysis, helping them achieve their goals."
+			},
+			"card-3": {
+				"heading": "Our Vision",
+				"description": "We strive to be the pioneers in providing innovative marketing solutions that inspire and achieve tangible results. We aim to build long-term relationships with our clients by providing effective marketing strategies that enhance their position in the market."
+			}
+		},
+		"KnowUs": {
+			"label": "Get to know us better",
+			"heading": "Innovation that inspires, marketing that delivers results.",
+			"description": "Serajj Company is a leading company in providing digital marketing solutions, seeking to enable its partners to communicate effectively with their clients. The company provides a wide range of services including developing communication strategies, content creation, design and marketing services, visual production, social media management, and various types of advertising.",
+			"btnText": "Our Services"
+		},
+		"Stats": {
+			"stat-1": {
+				"heading": "Clients",
+				"description": "150",
+				"sub": "Client"
+			},
+			"stat-2": {
+				"heading": "Customer Appearance",
+				"description": "4",
+				"sub": "Billion"
+			},
+			"stat-3": {
+				"heading": "Sales",
+				"description": "250M",
+				"sub": "SR"
+			},
+			"stat-4": {
+				"heading": "Influencers",
+				"description": "4000",
+				"sub": "Influencer"
+			}
+		}
+	},
+	"Footer": {
+		"description": "We are driven by an inspiring idea wherever it is, so we weave it with threads of creativity, to enhance your presence in the digital market and enrich the taste of your customers. We are the light of the road for our customers.",
+		"heading-1": "Quick Access",
+		"heading-1-link-1": "Home",
+		"heading-1-link-2": "About",
+		"heading-1-link-3": "Services",
+		"heading-1-link-4": "Works",
+		"heading-1-link-5": "Clients",
+		"heading-1-link-6": "News",
+		"heading-1-link-7": "Blog",
+		"heading-1-link-8": "Contact",
+		"heading-2": "Contact Information",
+		"heading-2-link-1": "Riyadh - Al Shuhada District",
+		"heading-2-link-2": "0537826886",
+		"heading-2-link-3": "care@serajj.sa",
+		"copyright": "All rights reserved to Serajj website ©"
+	}
+}
