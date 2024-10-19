@@ -3,11 +3,12 @@ import { useTranslations } from "next-intl";
 import Image from "next/image";
 import React from "react";
 import { Button } from "../ui/button";
-import { BsArrowLeft } from "react-icons/bs";
+import { BsArrowLeft, BsArrowRight } from "react-icons/bs";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 
 export const Main = () => {
 	const t = useTranslations("AboutUs.Main");
+	const isRtl = useTranslations("metadata")("dir") == "rtl";
 	const isMobile = useMediaQuery("(max-width: 768px)");
 	return (
 		<div className="max-container">
@@ -22,7 +23,7 @@ export const Main = () => {
 						className="w-fit gap-2 text-xl fw-light"
 					>
 						{t("btnText")}
-						<BsArrowLeft />
+						{isRtl ? <BsArrowLeft /> : <BsArrowRight />}
 					</Button>
 				</div>
 				<Image

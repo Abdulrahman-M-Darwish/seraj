@@ -14,7 +14,7 @@ export const OurClients = () => {
 						key={"our-clients" + i}
 						className="w-fit relative hover:scale-110 overflow-hidden transition-all duration-700 group"
 					>
-						<div className="absolute transition-all group-hover:opacity-0 top-1/2 end-1/2 scale-0 group-hover:scale-150 -translate-y-1/2 -translate-x-1/2 bg-accent/60 w-36 h-36 rotate-45 duration-1000" />
+						<div className="absolute transition-all group-hover:opacity-0 top-1/2 left-1/2 scale-0 group-hover:scale-150 -translate-y-1/2 -translate-x-1/2 bg-accent/60 w-36 h-36 rotate-45 duration-1000" />
 						<Image
 							src={`/home/client-${1 + i}.png`}
 							width={250}

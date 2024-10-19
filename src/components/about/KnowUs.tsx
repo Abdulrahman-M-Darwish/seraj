@@ -1,11 +1,12 @@
 import { useTranslations } from "next-intl";
 import React from "react";
 import { Button } from "../ui/button";
-import { BsArrowLeft } from "react-icons/bs";
+import { BsArrowLeft, BsArrowRight } from "react-icons/bs";
 import Image from "next/image";
 
 export const KnowUs = () => {
 	const t = useTranslations("AboutUs.KnowUs");
+	const isRtl = useTranslations("metadata")("dir") == "rtl";
 	return (
 		<div className="flex gap-12 max-mdx:flex-col max-container">
 			<div className="flex-1 flex justify-end">
@@ -23,7 +24,7 @@ export const KnowUs = () => {
 				<p>{t("description")}</p>
 				<Button size="lg" className="!mt-14 text-lg w-fit gap-2">
 					{t("btnText")}
-					<BsArrowLeft size={25} />
+					{isRtl ? <BsArrowLeft size={25} /> : <BsArrowRight size={25} />}
 				</Button>
 			</div>
 		</div>

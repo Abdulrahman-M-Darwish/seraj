@@ -6,7 +6,7 @@ import Image from "next/image";
 import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
 import { EffectFade, Navigation, Autoplay } from "swiper/modules";
 import { Button } from "../ui/button";
-import { FaArrowRight } from "react-icons/fa6";
+import { FaArrowLeft, FaArrowRight } from "react-icons/fa6";
 import "swiper/css";
 import "swiper/css/effect-fade";
 import "swiper/css/autoplay";
@@ -35,6 +35,7 @@ export const Services = () => {
 	const t = useTranslations("HomePage.Services");
 	const [activeIndex, setActiveIndex] = useState(0);
 	const isMobile = useMediaQuery("(max-width: 1024px)");
+	const isRtl = useTranslations("metadata")("dir") == "rtl";
 	return (
 		<div>
 			<div className="space-y-4 mb-16">
@@ -63,7 +64,7 @@ export const Services = () => {
 									<Button className="bg-accent/10 pe-1 fw-bold py-1 h-auto border border-accent text-accent gap-8 ps-8 font-bold group">
 										{t("btnText")}
 										<div className="w-9 h-9 rounded-full text-white flex items-center justify-center bg-accent group-hover:text-primary transition-colors">
-											<FaArrowRight />
+											{isRtl ? <FaArrowRight /> : <FaArrowLeft />}
 										</div>
 									</Button>
 								</div>
@@ -83,12 +84,34 @@ export const Services = () => {
 						</div>
 						<div className="flex gap-4">
 							<button className="button-prev relative text-white border overflow-hidden w-12 h-12 rounded-full flex items-center justify-center transition-all hover:justify-start hover:bg-[#f3d270] hover:text-primary hover:border-[#f3d270] hover:!rounded-e-none hover:w-20 duration-300 ease-linear hover:ps-4 group">
-								<GoChevronRight size={24} />
-								<div className="h-[1px] w-1/2 bg-primary absolute end-0 group-hover:translate-x-3 -translate-x-full transition-all duration-300" />
+								{isRtl ? (
+									<GoChevronRight size={24} />
+								) : (
+									<GoChevronLeft size={24} />
+								)}
+								<div
+									className={
+										"h-[1px] w-1/2 bg-primary absolute transition-all duration-300 " +
+										(isRtl
+											? "-translate-x-full end-0 group-hover:translate-x-3"
+											: "translate-x-full start-0 group-hover:translate-x-6")
+									}
+								/>
 							</button>
 							<button className="button-next relative text-white border overflow-hidden w-12 h-12 rounded-full flex items-center justify-center transition-all hover:justify-end hover:bg-[#f3d270] hover:text-primary hover:border-[#f3d270] hover:!rounded-s-none hover:w-20 duration-300 ease-linear hover:pe-4 group">
-								<GoChevronLeft size={24} />
-								<div className="h-[1px] w-1/2 bg-primary absolute start-0 group-hover:-translate-x-3 translate-x-full transition-all duration-300" />
+								{isRtl ? (
+									<GoChevronLeft size={24} />
+								) : (
+									<GoChevronRight size={24} />
+								)}
+								<div
+									className={
+										"h-[1px] w-1/2 bg-primary absolute transition-all duration-300 " +
+										(isRtl
+											? "translate-x-full start-0 group-hover:-translate-x-3"
+											: "-translate-x-full end-0 group-hover:-translate-x-6")
+									}
+								/>
 							</button>
 						</div>
 					</div>

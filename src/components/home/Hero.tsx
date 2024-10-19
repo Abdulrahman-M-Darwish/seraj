@@ -3,10 +3,11 @@ import Image from "next/image";
 import React from "react";
 import { Button } from "../ui/button";
 import { FaInstagram, FaTiktok, FaWhatsapp, FaXTwitter } from "react-icons/fa6";
-import { BsArrowLeft } from "react-icons/bs";
+import { BsArrowLeft, BsArrowRight } from "react-icons/bs";
 
 export const Hero = () => {
 	const t = useTranslations("HomePage.Hero");
+	const isRtl = useTranslations("metadata")("dir") == "rtl";
 	return (
 		<div className="relative text-white md:max-container">
 			<Image
@@ -30,7 +31,7 @@ export const Hero = () => {
 						<div className="flex flex-wrap justify-center gap-8">
 							<Button size="lg" variant="secondary" className="sm:w-44 gap-2">
 								{t("contactUs")}
-								<BsArrowLeft size={20} />
+								{isRtl ? <BsArrowLeft size={20} /> : <BsArrowRight size={20} />}
 							</Button>
 							<Button
 								size="lg"
