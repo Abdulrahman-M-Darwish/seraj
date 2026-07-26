@@ -56,7 +56,9 @@ export const Services = () => {
 					{(isMobile ? serviceSlidesMobile : serviceSlides).map((slide, i) => (
 						<SwiperSlide key={slide}>
 							<div className="absolute w-[90%] h-full top-0 end-[5%] text-white">
-								<div className="max-w-lg mt-10 ms-auto">
+								<div
+									className={`max-w-lg mt-10 ${isRtl ? "ms-auto" : "me-auto"}`}
+								>
 									<h4 className="sm:text-[42px] text-3xl">
 										{t(`slide-${i + 1}.heading`)}
 									</h4>
@@ -94,7 +96,7 @@ export const Services = () => {
 										"h-[1px] w-1/2 bg-primary absolute transition-all duration-300 " +
 										(isRtl
 											? "-translate-x-full end-0 group-hover:translate-x-3"
-											: "translate-x-full start-0 group-hover:translate-x-6")
+											: "translate-x-[200%] start-0 group-hover:translate-x-6")
 									}
 								/>
 							</button>
@@ -109,7 +111,7 @@ export const Services = () => {
 										"h-[1px] w-1/2 bg-primary absolute transition-all duration-300 " +
 										(isRtl
 											? "translate-x-full start-0 group-hover:-translate-x-3"
-											: "-translate-x-full end-0 group-hover:-translate-x-6")
+											: "-translate-x-[200%] end-0 group-hover:-translate-x-6")
 									}
 								/>
 							</button>
