@@ -1,5 +1,8 @@
-{
-	"metadata": { "dir": "ltr", "title": "Seraj for digital marketing" },
+﻿{
+	"metadata": {
+		"dir": "ltr",
+		"title": "Seraj for digital marketing"
+	},
 	"Navbar": {
 		"home": "Home",
 		"about": "About Us",
@@ -10,7 +13,7 @@
 	},
 	"HomePage": {
 		"Hero": {
-			"heading": "We Create, Influence & Achieve Results",
+			"heading": "We Create, Influence \u0026 Achieve Results",
 			"description": "We combine creativity, quality and impact to ensure the best results for our clients. We take you on a journey illuminated by the light of our shining lamp, providing the best innovative marketing strategies that leave their mark and achieve the desired results.",
 			"contactUs": "Contact Us",
 			"aboutUs": "About Us"
@@ -56,28 +59,28 @@
 			"heading": "A Modern Vision That Embodies Excellence",
 			"description": "Explore our gallery of past projects that reflect our uniqueness and creativity in the world of marketing and advertising, where we combine creativity and professionalism to effectively communicate your messages.",
 			"slide-1": {
-				"heading": "السعودي للروبوت والرياضات اللاسلكية",
-				"description": "الاتحاد الرياضي المعتمد من اللجنة الأولمبية، والراعي لجميع الرياضات اللاسلكية.<br></br>عملنا على تعزيز الظهور الرقمي من خلال إدارة كاملة لوسائل التواصل الاجتماعي للاتحاد والتفاعل مع جمهورهم والمهتمين بمجال الروبوت والرياضات اللاسلكية كما سلطنا الضوء على أنشطة الإتحاد وانجازاته ومساهماته عبر محتوى متنوع ومتجدد."
+				"heading": "Saudi Federation for Robotics and RC Sports",
+				"description": "The Olympic Committee-recognized federation and governing body for all radio-controlled sports.\u003cbr\u003e\u003c/br\u003eWe strengthened its digital presence through full social media management, engaging robotics and RC-sports enthusiasts with fresh, varied content that showcased the federation\u0027s activities, achievements, and contributions."
 			},
 			"slide-2": {
-				"heading": "بنك الرياض",
-				"description": "أحد أكبر المؤسسات المالية في المملكة العربية السعودية والشرق الأوسط.<br></br>تم العمل على إدارة منصات التواصل الاجتماعي وتقديم محتوى مبتكر يتناسب مع توجّه البنك والتفاعل مع العملاء."
+				"heading": "Riyad Bank",
+				"description": "One of the largest financial institutions in Saudi Arabia and the Middle East.\u003cbr\u003e\u003c/br\u003eWe managed its social media platforms and developed innovative content aligned with the bank\u0027s direction and designed to engage its customers."
 			},
 			"slide-3": {
-				"heading": "جمعية كهاتين",
-				"description": "الجمعية الخيرية لرعاية الأيتام في مكة المكرمة.<br></br>قدمنا استراتيجية ظهور رقمي مميزة وإدارة لمنصات التواصل الاجتماعي وحملات ممولة بجانب الإنتاج المرئي لمقاطع متنوعة تخدم الجمعية."
+				"heading": "Kahatin Association",
+				"description": "A charitable association supporting orphans in Makkah.\u003cbr\u003e\u003c/br\u003eWe delivered a distinctive digital-presence strategy, managed social media channels and paid campaigns, and produced a range of visual content in support of the association."
 			},
 			"slide-4": {
-				"heading": "هاف مليون",
-				"description": "هاف مليون أشهر علامة سعودية متخصصة في مجال القهوة.<br></br>قدمنا استراتيجية ظهور رقمي بأفكار مبتكرة وإبداعية تواكب تجدد منصات التواصل الاجتماعي وتواكب تنوعها في المحتوى."
+				"heading": "Half Million",
+				"description": "One of Saudi Arabia\u0027s best-known coffee brands.\u003cbr\u003e\u003c/br\u003eWe developed an innovative, creative digital-presence strategy that kept pace with evolving social platforms and their diverse content formats."
 			},
 			"slide-5": {
-				"heading": "Go للاتصالات",
-				"description": "go للاتصالات شركة رائدة في مجال الإتصالات على مستوى الشرق الأوسط والحاصلة على أهم المحافظ في مجال تكنولوجيا المعلومات والاتصالات.<br></br>قدمنا استراتيجية مميزة ومبتكرة تعزز من الظهور الرقمي لمنصات التواصل الاجتماعي ، والإنتاج المرئي من مقاطع فيديو وصور وموشن جرافيك."
+				"heading": "GO Telecom",
+				"description": "A leading telecommunications company in the Middle East, recognized for excellence in information and communications technology.\u003cbr\u003e\u003c/br\u003eWe created an innovative strategy to strengthen its social media presence and produced videos, photography, and motion graphics."
 			},
 			"slide-6": {
-				"heading": "شركة أساس مكين",
-				"description": "شركة للتطوير والاستثمار العقاري بخبرة دامت 14 سنة في مجال التطوير العقاري.<br></br>قدمنا استراتيجية ظهور رقمي وإدارة لمنصات التواصل الاجتماعي وإدارة للحملات الإعلانية الممولة."
+				"heading": "Asas Makeen",
+				"description": "A real-estate development and investment company with 14 years of experience.\u003cbr\u003e\u003c/br\u003eWe developed its digital-presence strategy, managed its social media platforms, and ran paid advertising campaigns."
 			}
 		},
 		"Leaders": {
@@ -107,24 +110,24 @@
 			"heading": "Latest News",
 			"description": "Follow with us the latest news and updates about Serajj Company, as we provide you with an inside look at our current and future projects.",
 			"slide-1": {
-				"heading": "شريك النجاح وزارة الدفاع",
-				"description": "وزارة الدفاع إحدى الوزارات السيادية في المملكة العربية السعودية المكلّفة بالتنظيم الإداري والعملياتي واللوجستي، بفضل ثقتهم بنا وبجودة مخرجاتنا استطعنا"
+				"heading": "A Success Partner: Ministry of Defense",
+				"description": "The Ministry of Defense is one of Saudi Arabia\u0027s sovereign ministries, responsible for administrative, operational, and logistical functions. Their trust in us and the quality of our work made this partnership possible."
 			},
 			"slide-2": {
-				"heading": "شريك النجاح Go للاتصالات",
-				"description": "شريك نجاحنا go للاتصالات أحد الشركات الرائدة في الشرق الأوسط في قطاع الاتصالات والحاصلة على أهم المحافظ في مجال تكنولوجيا"
+				"heading": "A Success Partner: GO Telecom",
+				"description": "Our success partner, GO Telecom, is one of the Middle East\u0027s leading companies in the telecommunications sector and a recognized leader in technology."
 			},
 			"slide-3": {
-				"heading": "اكثر من 2 مليار مشاهدة لحملاتنا الإعلانية!",
-				"description": "تقام الحملات التسويقية بهدف معين أو بمجموعة من الأهداف، في العادة تتضمن هذه الأهداف تأسيس العلامة التجارية أو تسليط الضوء"
+				"heading": "More Than 2 Billion Views for Our Advertising Campaigns!",
+				"description": "Marketing campaigns are created around one or more goals, often including building brand awareness or putting a product or service in the spotlight."
 			},
 			"slide-4": {
-				"heading": "شريك النجاح هاف مليون",
-				"description": "هاف مليون أشهر علامة سعودية في مجال القهوة التي استطاعت أن تضع بصمتها وتنجح على رغم كثرة المنافسين في المجال،"
+				"heading": "A Success Partner: Half Million",
+				"description": "Half Million is one of Saudi Arabia\u0027s best-known coffee brands, making its mark and succeeding despite intense competition in the sector."
 			},
 			"slide-5": {
-				"heading": "حادثة سرقة المكتب تحصد 2.6 مليون مشاهدة في منصة تيك توك",
-				"description": "تعرض مكتب سراج للتسويق الرقمي للسطو في نهار يوم الجمعة من قبل رجل يخفي هويته استهدف مكتب الرئيس التنفيذي وبدأ"
+				"heading": "Office Robbery Incident Reaches 2.6 Million TikTok Views",
+				"description": "Serajj Digital Marketing\u0027s office was robbed on a Friday afternoon by a man concealing his identity, who targeted the CEO\u0027s office."
 			}
 		},
 		"ContactUs": {
@@ -147,36 +150,36 @@
 	},
 	"Projects": {
 		"card-1": {
-			"heading": "الهيئة السعودية للمقاولين",
-			"description": "هيئة تعنى بتطوير قطاع المقاولات ورفع كفاءته. تمت إقامة فعالية اليوم العالمي للايسكريم بهوية الهيئة بفريق من المصورين المحترفين وبتغطية احترافية للفعالية."
+			"heading": "Saudi Contractors Authority",
+			"description": "An authority dedicated to developing the contracting sector and raising its efficiency. We organized World Ice Cream Day under the authority\u0027s brand identity, with a professional photography team and comprehensive event coverage."
 		},
 		"card-2": {
-			"heading": "وزارة الزراعة",
-			"description": "بناء هوية بصرية متكاملة لتظهر كواجهة مميزة للوزارة."
+			"heading": "Ministry of Agriculture",
+			"description": "We built a complete visual identity that gives the ministry a distinctive presence."
 		},
 		"card-3": {
-			"heading": "بنك الرياض",
-			"description": "أحد أكبر المؤسسات المالية في المملكة العربية السعودية والشرق الأوسط. تم العمل على إدارة منصات التواصل الاجتماعي وتقديم محتوى مبتكر يتناسب مع توجّه البنك والتفاعل مع العملاء."
+			"heading": "Riyad Bank",
+			"description": "One of the largest financial institutions in Saudi Arabia and the Middle East. We managed its social media platforms and developed innovative content aligned with the bank\u0027s direction and designed to engage its customers."
 		},
 		"card-4": {
-			"heading": "الاتحاد السعودي للروبوت والرياضات اللاسلكية",
-			"description": "الاتحاد الرياضي المعتمد من اللجنة الأولمبية، والراعي لجميع الرياضات اللاسلكية. عملنا على تعزيز الظهور الرقمي من خلال إدارة كاملة لوسائل التواصل الاجتماعي للاتحاد والتفاعل مع جمهورهم والمهتمين بمجال الروبوت والرياضات اللاسلكية كما سلطنا الضوء على أنشطة الإتحاد وانجازاته ومساهماته عبر محتوى متنوع ومتجدد."
+			"heading": "Saudi Federation for Robotics and RC Sports",
+			"description": "The Olympic Committee-recognized federation and governing body for all radio-controlled sports. We strengthened its digital presence through full social media management, engaging robotics and RC-sports enthusiasts with fresh, varied content that showcased the federation\u0027s activities, achievements, and contributions."
 		},
 		"card-5": {
-			"heading": "هاف مليون",
-			"description": "هاف مليون أشهر علامة سعودية متخصصة في مجال القهوة. قدمنا استراتيجية ظهور رقمي بأفكار مبتكرة وإبداعية تواكب تجدد منصات التواصل الاجتماعي وتواكب تنوعها في المحتوى."
+			"heading": "Half Million",
+			"description": "One of Saudi Arabia\u0027s best-known coffee brands. We developed an innovative, creative digital-presence strategy that kept pace with evolving social platforms and their diverse content formats."
 		},
 		"card-6": {
-			"heading": "Go للاتصالات",
-			"description": "go للاتصالات شركة رائدة في مجال الإتصالات على مستوى الشرق الأوسط والحاصلة على أهم المحافظ في مجال تكنولوجيا المعلومات والاتصالات. قدمنا استراتيجية مميزة ومبتكرة تعزز من الظهور الرقمي لمنصات التواصل الاجتماعي ، والإنتاج المرئي من مقاطع فيديو وصور وموشن جرافيك."
+			"heading": "GO Telecom",
+			"description": "A leading telecommunications company in the Middle East, recognized for excellence in information and communications technology. We created an innovative strategy to strengthen its social media presence and produced videos, photography, and motion graphics."
 		},
 		"card-7": {
-			"heading": "جمعية كهاتين",
-			"description": "الجمعية الخيرية لرعاية الأيتام في مكة المكرمة. قدمنا استراتيجية ظهور رقمي مميزة وإدارة لمنصات التواصل الاجتماعي وحملات ممولة بجانب الإنتاج المرئي لمقاطع متنوعة تخدم الجمعية."
+			"heading": "Kahatin Association",
+			"description": "A charitable association supporting orphans in Makkah. We delivered a distinctive digital-presence strategy, managed social media channels and paid campaigns, and produced a range of visual content in support of the association."
 		},
 		"card-8": {
-			"heading": "شركة أساس مكين",
-			"description": "شركة للتطوير والاستثمار العقاري بخبرة دامت 14 سنة في مجال التطوير العقاري. قدمنا استراتيجية ظهور رقمي وإدارة لمنصات التواصل الاجتماعي وإدارة للحملات الإعلانية الممولة."
+			"heading": "Asas Makeen",
+			"description": "A real-estate development and investment company with 14 years of experience. We developed its digital-presence strategy, managed its social media platforms, and ran paid advertising campaigns."
 		}
 	},
 	"OurServices": {
@@ -270,6 +273,6 @@
 		"heading-2-link-1": "Riyadh - Al Shuhada District",
 		"heading-2-link-2": "0537826886",
 		"heading-2-link-3": "care@serajj.sa",
-		"copyright": "All rights reserved to Serajj website ©"
+		"copyright": "© All rights reserved to Serajj."
 	}
 }

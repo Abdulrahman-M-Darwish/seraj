@@ -12,5 +12,5 @@ export const {
 	locales,
 	pathnames,
 	localePrefix,
-	defaultLocale: "ar",
+	defaultLocale: "en",
 });
