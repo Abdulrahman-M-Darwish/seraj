@@ -12,8 +12,8 @@ export const ContactUs = () => {
 				<h3 className="text-[32px]">{t("heading")}</h3>
 				<p>{t("description")}</p>
 			</div>
-			<div className="flex gap-8">
-				<div className="flex flex-1 max-mdx:hidden">
+			<div className="flex gap-8 max-md:flex-col">
+				<div className="flex flex-1 ">
 					<Map />
 				</div>
 				<ContactUsForm />

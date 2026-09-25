@@ -39,7 +39,7 @@ export const ContactUsForm = () => {
 	return (
 		<Form {...form}>
 			<form
-				className="flex-1 bg-secondary py-12 px-4 min-[450px]:px-10 sm:px-20 rounded-2xl"
+				className="flex-1 bg-secondary py-12 px-4 min-[450px]:px-10 sm:px-16 rounded-2xl"
 				onSubmit={form.handleSubmit(onSubmit)}
 			>
 				<h2 className="text-xl sm:text-2xl mb-8">{t("heading")}</h2>

@@ -6,14 +6,14 @@ export const Map = () => {
 	return (
 		<div className="flex-1 rounded-3xl overflow-hidden">
 			<iframe
-				id="gmap_canvas"
-				className="h-full w-full"
-				src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=%D8%B3%D8%B1%D8%A7%D8%AC%20%D9%84%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%20+(%D8%B3%D8%B1%D8%A7%D8%AC%20%D9%84%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82%20%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.8029923219488!2d46.714935999999994!3d24.767943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2efd84c62786e3%3A0x52f7572a48d7434b!2zQ2Vub21pIEFsIE5ha2hlZWwgTWFsbCB8INiz2YrZhtmI2YXZiiDYp9mE2YbYrtmK2YQg2YXZiNmEINmI2KzZh9iq2YMg2KfZhNmF2YHYttmE2Kk!5e0!3m2!1sen!2seg!4v1790340701991!5m2!1sen!2seg"
+				width="100%"
+				height="100%"
+				style={{ border: 0 }}
+				allowFullScreen={false}
+				loading="lazy"
+				referrerPolicy="strict-origin-when-cross-origin"
 			></iframe>
-			<script
-				type="text/javascript"
-				src="https://embedmaps.com/google-maps-authorization/script.js?id=bbfda3d09ac4c93703d6f2dc309cee1d07d670fd"
-			/>
 		</div>
 	);
 };
